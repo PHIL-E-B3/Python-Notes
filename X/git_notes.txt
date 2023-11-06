@@ -1,0 +1,10 @@
+Git notes:
+
+Create your virtual environment with:
+    
+    - python3 -m venv tutorial_env
+    
+    Activate with:
+    
+    - source tutorial_env/bin/activate
+    

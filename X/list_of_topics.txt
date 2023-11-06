@@ -1,0 +1,26 @@
+List of topics for python to learn
+
+DONE:
+- Typing - type hinting 
+- Functional programming - map, lambda, reduce functions DONE
+	- Map will use the underlying machine code (rather than for loops)
+	- Reduce is the opposite function of maps
+	- Do something with a vector (reduce a vector to a single data point)
+
+- Opening/writing/zipping/compressing files - io 
+
+- Dataframes - pandas
+	- How the underlying numpy works  
+	- Understand the relationship between two.
+
+.io—> inputting outputting 
+
+
+Request library -> kind of like io
+Understanding API
+
+USEFUL SOURCES:
+
+
+
+[https://twitter.com/TechMemeKing/status/1677383032783904769](https://twitter.com/TechMemeKing/status/1677383032783904769)
